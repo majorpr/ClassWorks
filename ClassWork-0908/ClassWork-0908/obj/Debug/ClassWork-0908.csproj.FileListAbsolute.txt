@@ -1,0 +1,6 @@
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\bin\Debug\ClassWork-0908.exe.config
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\bin\Debug\ClassWork-0908.exe
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\bin\Debug\ClassWork-0908.pdb
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\obj\Debug\ClassWork-0908.csprojAssemblyReference.cache
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\obj\Debug\ClassWork-0908.exe
+Z:\~ Максим Ефимов ~\Учебные группы\РПО 2019 полустационар воскресенье день\Andrei Pronin\ClassWork-0908\ClassWork-0908\obj\Debug\ClassWork-0908.pdb
