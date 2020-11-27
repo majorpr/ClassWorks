@@ -1,1 +1,3 @@
 using Console;
+
+namespace Tests;
